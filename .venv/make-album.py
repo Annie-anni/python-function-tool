@@ -1,5 +1,5 @@
 def make_album(album_name,band_name,quantity):
-    print(f"Wow the '{album_name.upper()}' album by {band_name.upper()} is very popular!")
+    print(f"\nWow the '{album_name.upper()}' album by {band_name.upper()} is very popular!")
     print(f"There are has {quantity} songs,that's very nice!")
 
 while True:
