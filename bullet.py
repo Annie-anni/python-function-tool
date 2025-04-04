@@ -26,3 +26,4 @@ class Bullet(Sprite):
         #Draw bullets on screen
         pygame.draw.rect(self.screen,self.color,self.rect)
 
+
